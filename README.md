@@ -1,12 +1,26 @@
-# React + Vite
+# MANDALAMP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MANDALAMP is a React-based application built with Vite that simulates a circadian light experience. It features dynamic light transitions, mandala projections, and ambient soundscapes to create a calming and immersive environment.
 
-Currently, two official plugins are available:
+## Features
+- **Dynamic Light Transitions**: Mimics the natural phases of daylight.
+- **Mandala Projections**: Displays evolving mandala patterns for mindfulness and focus.
+- **Ambient Soundscapes**: Plays relaxing music to enhance the experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Credits
+- **Music**: [Beautiful Planet Music](https://www.youtube.com/watch?v=cI4ryatVkKw&ab_channel=BeautifulPlanetMusic)
+- **Mandala Image**: [Ethnic Golden Mandala](https://pngtree.com/freepng/ethnic-golden-mandala-png-image-and-vector_5885000.html)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/bipana06/MANDALAMP.git
+   ```
+2. Install dependencies:
+```bash
+npm install
+```
+3. Start the development server:
+```bash
+npm run dev
+```
