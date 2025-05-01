@@ -176,7 +176,7 @@ const ControlPanel = ({
                 : 'bg-teal-500 hover:bg-teal-600 text-white'
             }`}
           >
-            {useRealTime ? 'Live Time' : 'Manual Time'}
+            {useRealTime ? 'Manual Time' : 'Live Time'}
           </button>
         </div>
       </div>
